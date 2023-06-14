@@ -1,8 +1,10 @@
-# Follow below steps....
+# How it's work?
+
+# How to use this template? Follow below steps....
 
 # 1. fork this repository.
 
-![fork_reference_image](./fork_reference_image.JPG)
+![fork_reference_image](./assets/fork_reference_image.JPG)
 
 # 2. Clone this repository to your local machine
 
@@ -12,7 +14,7 @@
 
 # 3. Run code with live server
 
-![live server reference image](./live_server_reference_image.JPG)
+![live server reference image](./assets/live_server_reference_image.JPG)
 
 </br>
 
@@ -65,7 +67,7 @@ toastContainer.addEventListener("click", () => {
 
 </br>
 
-# 4. Add this ID where you want to show the tost message when clicked..
+# 6. Add this ID where you want to show the tost message when clicked..
 
 ```html
 <button id="showToastMessage">Show Toast Message</button>
@@ -75,6 +77,8 @@ toastContainer.addEventListener("click", () => {
 
 </br>
 
-# 4. Now you cna change the code in the CSS file to customize the toast message notification box.
+# 7. Now you cna change the code in the CSS file to customize the toast message notification box.
 
-> are you like this project please give me a star for make more interesting design/component for you!
+</br>
+
+- are you like this project please give me a star for make more interesting design/component for you!
